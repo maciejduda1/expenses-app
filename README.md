@@ -1,2 +1,2 @@
 # expenses-app
-React Native App to control my expenses.
+React Native App to control person expenses.
